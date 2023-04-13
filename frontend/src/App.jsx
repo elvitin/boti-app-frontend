@@ -1,5 +1,9 @@
 import { useState } from "react";
-import "./App.css";
+import Header from "./Components/Header/Header";
+import Section from "./Components/Section/Section";
+import Card from "./Components/Card/Card";
+import Footer from "./Components/Footer/Footer";
+// import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -9,7 +13,6 @@ function App() {
       <Header />
       <Section />
       <Card />
-      {/* //teste */}
       <Footer />
     </div>
   );
