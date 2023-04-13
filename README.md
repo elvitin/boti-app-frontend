@@ -1,59 +1,34 @@
-# vanthony-app
+# boti-app-frontend
 
 Aplicação demonstrativa desenvolvida no Programa Desenvolve
 
-## Backend
+<details>
+<summary>👈🏽 <strong>Aqui você poder ver todos os requisitos iniciais do projeto </strong></summary>
 
-- [ ] Criar entidade
+#### Requisitos do FRONTEND
 
-  - [ ] Pessoa
+![Image](https://user-images.githubusercontent.com/53791194/231627642-e839819d-4d66-4469-ac43-c559c56652f1.png)
 
-    ```json
-    {
-      "id": "uuid",
-      "nome": "string",
-      "sobrenome": "string",
-      "data_nascimento": "date"
-    }
-    ```
+![Image](https://user-images.githubusercontent.com/53791194/231628128-d1a052ce-c6a2-4fcb-9d7a-1689489637cb.png)
 
-    - [ ] Métodos
-      - [ ] Calcular idade
-      - [ ] Verifica maior idade
+#### Requisitos do BACKEND
 
-- [ ] Criar rotas
+![Image](https://user-images.githubusercontent.com/53791194/231628433-169a9a89-6dbf-42cf-b985-fc5b7e3bf2ec.png)
 
-  - [ ] Criar uma pessoa
-  - [ ] Listar pessoas
-    - [ ] Retornar idade calculada da pessoa
-    - [ ] Retornar maior idade
-    - [ ] Com ordem crescente ou decrescente
-  - [ ] Listar pessoas maiores de idade
-  - [ ] Listar pessoas menores de idade
-  - [ ] Buscar pessoa pelo ID
-    - [ ] Retornar idade calculada da pessoa
-    - [ ] Retornar maior idade
-  - [ ] Deletar pessoa pelo ID
-    - [ ] Retornar mensagem se pessoa foi deletada ou não
-  - [ ] Atualizar pessoa pelo ID
-    - [ ] Retornar mensagem se pessoa foi atualizada ou não
+![Image](https://user-images.githubusercontent.com/53791194/231628455-ea7d5aca-4697-439c-aa18-1c88fbc621c7.png)
 
-## Frontend
+</details>
 
-### Componentes (utilizando flex ou grid)
+<details>
+<summary>👈🏽 <strong>Aqui também é possível ver algumas boas práticas que foram foram adotadas para o projeto </strong></summary>
 
-- [ ] Header
-  - [ ] Nav
-    - [ ] Botão de listar pessoas - item 6, 7, 12 - 17
-- [ ] Section
-  - [ ] Formulário
-    - [ ] Validações - item 4 e 5
-      - [ ] Nome
-      - [ ] Sobrenome
-      - [ ] Data de nascimento
-      - [ ] Botão enviar
-- [ ] Dados (Componente dados da pessoa) - item 8, 9, 10 e 11
-- [ ] Footer
+#### _1) COMMITS SEMÂNTICOS_
+
+[Conventional Commits](https://www.conventionalcommits.org/)
+
+![Image](https://user-images.githubusercontent.com/53791194/231629761-fc685697-3abe-42f6-955c-8b5937749da4.png)
+
+</details>
 
 ## Contribuidores:
 
