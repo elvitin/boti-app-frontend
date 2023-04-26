@@ -1,3 +1,3 @@
-const Footer = ({ children, className }) => {
-  return <div>Card</div>;
+export default Footer = ({ children, className }) => {
+  return <div>Footer</div>;
 };

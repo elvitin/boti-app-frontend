@@ -1,3 +1,3 @@
-const Header = ({ children, className }) => {
-  return <div>Card</div>;
+export default Header = ({ children, className }) => {
+  return <div>Header</div>;
 };

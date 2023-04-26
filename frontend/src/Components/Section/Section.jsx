@@ -1,3 +1,3 @@
-const Section = ({ children, className }) => {
-  return <div>Card</div>;
+export default Section = ({ children, className }) => {
+  return <div>Section</div>;
 };
